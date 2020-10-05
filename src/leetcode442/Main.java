@@ -1,4 +1,4 @@
-package duplicates;
+package leetcode442;
 
 import java.util.Arrays;
 
